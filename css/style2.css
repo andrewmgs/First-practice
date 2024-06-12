@@ -1,0 +1,34 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cabecera { 
+    justify-content: center;
+    display: flex;
+}
+
+#menu { 
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+}
+
+#menu h2 { 
+   margin: 10px 30px;
+}
+
+#sobremi { 
+    text-align: center;
+ }
+
+#footer { 
+    display: flex;
+    color: Black;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p { 
+    margin: 20px;
+}
